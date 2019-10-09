@@ -1,0 +1,239 @@
+[
+   {
+      "id":"atricure",
+      "title":"Atricure, Inc",
+      "location":"Mason, Ohio",
+      "category":[
+         "industrial",
+         "featured",
+         "healthcare"
+      ],
+      "abbr":"OH",
+      "content":"The AtriCure project is a modern corporate office and medical manufacturing facility in Mason, Ohio, northeast of Cincinnati. The project features 50,000 SF of office area on two levels with kitchen/break area, fitness center, a simulation operating room and sales presentation room. The manufacturing area includes a clean room of 10,000 SF which includes a full glass wall for viewing from the office and sales areas. The project serves as the corporate headquarters for AtriCure, Inc. (NASDAQ: ATRC), a manufacturer of ablation and other surgical devices used in the treatment and support of atrial fibrillation. The facility provides office and manufacturing positions for up to 270 full time employees with the potential for future expansion to accommodate the company's rapid growth projections.",
+      "images":[
+         "atricure-01.jpg",
+         "atricure-02.jpg",
+         "atricure-03.jpg",
+         "atricure-04.jpg",
+         "atricure-05.jpg",
+         "atricure-06.jpg",
+         "atricure-07.jpg",
+         "atricure-08.jpg",
+         "atricure-09.jpg",
+         "atricure-10.jpg"
+      ],
+      "flag":"usa"
+   },
+   {
+      "id":"valvoline",
+      "title":"Valvoline Oil",
+      "location":"Lexington, Kentucky",
+      "category":[
+         "office",
+         "featured"
+      ],
+      "abbr":"KY",
+      "content":"On March 1 2017, Verus Partners completed this 162,400 SF, four-story Class “A” office facility in Lexington, Kentucky for Ashland, Inc. The project serves as the new corporate headquarters office for Valvoline, incorporating additional office areas for Ashland, Inc. The project features an architectural precast/glass exterior in a splayed layout with an open floor plan and narrow floor plates to create a dramatic sense of entrance for both employees and visitors. The entrance to the building welcomes guests with a contemporary lobby displaying Valvoline’s vintage automobile collection. \r The building was constructed to the latest energy code standards and the architecture allows for daylight access for all building employees. Amenities in the building include a large employee servery/cafeteria and a large scale fitness center with access to an outdoor terrace overlooking a preserved, tree-lined landscape.",
+      "images":[
+         "valvoline-01.jpg",
+         "valvoline-02.jpg",
+         "valvoline-03.jpg",
+         "valvoline-04.jpg",
+         "valvoline-05.jpg",
+         "valvoline-06.jpg"
+      ],
+      "flag":"usa"
+   },
+   {
+      "id":"helmer",
+      "title":"Helmer Scientific Corporate Office and Medical Manufacturing",
+      "location":"Noblesville, Indiana",
+      "category":[
+         "industrial",
+         "featured",
+         "healthcare"
+      ],
+      "abbr":"IN",
+      "content":"Verus Partners developed this 137,500 SF corporate office, manufacturing and distribution facility on behalf of Helmer, Inc., on a 10-acre parcel in Noblesville, Indiana, northeast of Indianapolis. Helmer is a medical equipment manufacturer and distributor and required a larger facility with expansion capability to accommodate its fast growing operation. Verus was selected to develop the new facility in Saxony Corporate Campus, one of the premier business parks in the Indianapolis area.",
+      "images":[
+         "helmer-01.jpg"
+      ],
+      "flag":"usa"
+   },
+   {
+      "id":"aircommerce",
+      "title":"Airport Commerce Center One",
+      "location":"Louisville, Kentucky",
+      "category":[
+         "industrial",
+         "featured"
+      ],
+      "abbr":"KY",
+      "content":"Airport Commerce Center One is a 622,426 SF modern bulk, multi-tenant industrial facility completed in 2015 in the Renaissance South Business Park, a 540-acre master planned commercial development located immediately south of the Louisville International Airport, home of UPS Worldport, the largest air cargo hub in the world. The project is a joint venture of Verus Partners and Molto Properties. Airport Commerce Center One features cross-dock design, 36’ clear height, 7” concrete floor slab, EPDM membrane roof, insulated precast concrete exterior walls and motion sensor activated T5 lighting. The building was 100% leased prior to completion and was sold.",
+      "images":[
+         "aircommerce-01.jpg"
+      ],
+      "flag":"usa"
+   },
+   {
+      "id":"sundance",
+      "title":"Sundance",
+      "location":"Lebanon, Ohio",
+      "category":[
+         "industrial",
+         "featured"
+      ],
+      "abbr":"OH",
+      "content":"Verus Partners and Kadant Black Clawson developed a state-of-the-art office and manufacturing facility to produce equipment for the recycling and processing of paper and pulp products. The site is located in the Kingsview Industrial Park in Lebanon, Ohio, a northeast submarket of Cincinnati. The project features 27,000 SF of finished office space, accented by a two-story entrance staircase, multiple breakout meeting rooms and employee amenities including a large break area and employee locker rooms. The manufacturing area is a modern, customized space featuring foundations for specialized equipment, overhead bus duct, multiple overhead cranes, high-bay LED lighting and a 47’ high drive through bay. The building design delivers future expansion and reconfiguration flexibility for Kadant’s evolving technologies and operations. \nVerus worked with Kadant on all aspects of the development including due diligence, design and construction. Construction commenced June 2017 and was completed January 2017, accommodating transition of multiple Kadant locations to the new location.",
+      "images":[
+         "verus-sundance-12.jpg",
+         "verus-sundance-04.jpg",
+         "verus-sundance-05.jpg",
+         "verus-sundance-03.jpg",
+         "verus-sundance-13.jpg"
+      ],
+      "flag":"usa"
+   },
+   {
+      "id":"greenparke",
+      "title":"GreenParke",
+      "location":"Plainfield, Indiana",
+      "category":[
+         "industrial"
+      ],
+      "abbr":"IN",
+      "content":"Verus Partners and USAA constructed GreenParke Building One on a speculative basis beginning in 2012. The Class A modern bulk building was completed in October 2013, and features cross dock shipping design, 36' clear height, insulated precast concrete exterior walls, ESFR fire protection, EPDM roof, 7\" concrete floor slab, T5 lighting fixtures, 80 truck level docks equipped with 35,000lb 6' x 8' mechanical docks and dedicated parking for 96 trailers (expandable). The building was sold in shell condition in October 2013.",
+      "images":[
+         "greenparke1_big.jpg",
+         "verus_greenparke-interior.jpg",
+         "verus_greenparke01.jpg",
+         "verus_greenparke02.jpg",
+         "verus_greenparke03.jpg"
+      ],
+      "flag":"usa"
+   },
+   {
+      "id":"mercy",
+      "title":"Mercy Health",
+      "location":"Cincinnati, Ohio",
+      "category":[
+         "healthcare",
+         "office"
+      ],
+      "abbr":"OH",
+      "content":"Verus Partners developed this 368,447 SF Class “A” office headquarters facility for Mercy Health on a redevelopment site within the Bond Hill neighborhood of Cincinnati, Ohio. The building serves as the administrative and executive headquarters for Mercy Health, the State of Ohio’s fourth largest employer, consolidating multiple administrative and corporate operations.",
+      "images":[
+         "verus-mercy-health-aerial-01.jpg",
+         "verus_mercy-health01.jpg",
+         "verus_mercy-health02.jpg",
+         "verus_mercy-health03.jpg",
+         "mercy.jpg"
+      ],
+      "flag":"usa"
+   },
+   {
+      "id":"tmg",
+      "title":"TMG Health Office and Call Center",
+      "location":"Jessup, Pennsylvania",
+      "category":[
+         "healthcare",
+         "office"
+      ],
+      "abbr":"PA",
+      "content":"Verus Partners developed a 150,000 SF office and call center for TMG Health, a medical insurance billing and service provider and wholly owned subsidiary of Blue Cross Blue Shield. The three-story building is located on a mountaintop overlooking the borough of Jessup in northeast Pennsylvania. The project consolidated three regional locations for TMG. In addition to the call center operation, the building includes a grand entrance lobby, third floor outdoor balcony, executive offices and full service cafeteria. The project was awarded a Pennsylvania Redevelopment Assistance Capital Program grant and was constructed in a Keystone Opportunity Enterprise Zone.",
+      "images":[
+         "verus_tmg-health_main.jpg",
+         "verus_tmg-health01.jpg",
+         "verus_tmg-health02.jpg",
+         "verus_tmg-health03.jpg"
+      ],
+      "flag":"usa"
+   },
+   {
+      "id":"southport",
+      "title":"Southport Crossing Business Park",
+      "location":"Edmonton, Alberta",
+      "category":[
+         "land",
+         "industrial"
+      ],
+      "abbr":"AB",
+      "content":"Southport Crossing Business Park contains 140 acres situated in south Edmonton along 41st Avenue immediately east of the QE II Highway adjacent to the new CP Rail intermodal facility. The project is owned by SunLife Investment Management; Verus Partners Canada has been retained as the development manager. A new, four-way interchange is now open at 41st Avenue and QE II Highway. The site is planned for 2.0 million SF of industrial and commercial development. Buildings 1 and 2 totalling 238,250 SF are now leasing with design build opportunities available.",
+      "images":[
+         "verus_southport-01.jpg",
+         "verus_southport-02.jpg",
+         "southport_aerials_02.jpg"
+      ],
+      "flag":"can"
+   },
+   {
+      "id":"gsk",
+      "title":"GlaxoSmithKline Distribution Center",
+      "location":"York, Pennsylvania",
+      "category":[
+         "industrial"
+      ],
+      "abbr":"PA",
+      "content":"The GlaxoSmithKline Distribution Center is a 624,000 SF warehouse and distribution facility that was constructed on a speculative basis in 2008. The project was a joint venture of Verus Partners and AEW.  The site is located at 105 Willow Springs Road in York, Pennsylvania, within the I-81 Corridor Central PA industrial submarket. The building features 30' clear height, insulated precast concrete exterior walls, 7\" concrete floor slab and motion sensor activated T5 lighting. GlaxoSmithKline leased the facility for an initial term of 12 years. In addition to extensive interior improvements and racking, GlaxoSmithKline installed at its cost a 3MW solar array project consisting of 5,709 Suntech photovoltaic panels mounted to the roof structure.",
+      "images":[
+         "verus_gsk.jpg"
+      ],
+      "flag":"usa"
+   },
+   {
+      "id":"magellan",
+      "title":"Magellan Aerospace",
+      "location":"Mississauga, Ontario",
+      "category":[
+         "office",
+         "industrial",
+         "featured"
+      ],
+      "abbr":"ON",
+      "content":"Alberta Investment Management Company (AIMCo) and Crestpoint Real Estate Investments Ltd entered into a joint venture to acquire and develop a land parcel totaling approximately 45 acres located at 3160 Derry Road, Mississauga, Ontario. The initial phase of the project is a build to suit facility for Magellan Aerospace Corporation including a 220,000 SF office, manufacturing, testing and warehouse facility. Verus Partners Canada Ltd and Edev Realty Advisors have been retained as the development manager. The current site is a 750,000 SF office and manufacturing plant facility that no longer meets the needs of Magellan. A portion of the existing plant will be demolished to make way for the new facility. Once the new facility is complete Magellan will move its aerospace testing and manufacturing operations from the existing facility, which will be demolished and redeveloped as a master planned office, commercial and industrial campus. The “infill” site is located less than one kilometer from the Toronto Pearson International Airport. The Malton GO Train and Bus Station is located adjacent to the site.",
+      "images":[
+         "verus_magellan08.jpg",
+         "verus_magellan02.jpg",
+         "verus_magellan03.jpg",
+         "verus_magellan04.jpg",
+         "verus_magellan05.jpg",
+         "verus_magellan06.jpg",
+         "verus_magellan07.jpg"
+      ],
+      "flag":"can"
+   },
+   {
+      "id":"proctor",
+      "title":"Procter & Gamble Walmart Services Group",
+      "location":"Fayetteville, Arkansas",
+      "category":[
+         "office"
+      ],
+      "abbr":"AR",
+      "content":"Verus developed a two-story office building totaling 62,160 SF for the Procter & Gamble Distributing Company in Fayetteville, Arkansas. The building is located near the University of Arkansas and Walmart's corporate headquarters. P&G consolidated two existing offices in the area that serve the Walmart account, which at the time accounted for nearly 20% of P&G sales. The building was constructed with load-bearing precast concrete wall panels with a conventional steel frame. Building features include EFIS, concrete and glass facade, variable air volume HVAC, two story open lobby with monument staircase, and walking access to the City's nature trail system.",
+      "images":[
+         "verus-proctor_01.jpg"
+      ],
+      "flag":"usa"
+   },
+   {
+      "id":"chrin",
+      "title":"Chrin Commerce Center",
+      "location":"Palmer Township, Pennsylvania",
+      "category":[
+         "land"
+      ],
+      "abbr":"PA",
+      "content":"Chrin Commerce Centre is 690-acre master-planned development that represents one of the largest concentrations of land available for development in the high-demand Lehigh Valley (PA) industrial submarket within the I-78 / I-81 Corridor. The land is strategically positioned along the east side of Allentown with exceptional access to the Ports of New York/New Jersey. Approximately 38 million people live within a 300-mile radius, and 40% of the US population resides within a 600-mile radius. The park offers extensive interstate access, including a newly constructed highway interchange directly east of the site along SR 33. The first phase of the project is a 1.1 million SF bulk distribution building that is now under construction. The building will be owned by Duke Realty, which retained Verus as the development manager for the project.",
+      "images":[
+         "chrin-aerial-012.jpg",
+         "chrin-exterior-01.jpg",
+         "chrin-exterior-02.jpg",
+         "chrin-exterior-03.jpg",
+         "chrin-interior-01.jpg",
+         "chrin-interior-02.jpg",
+         "chrin-bays-01.jpg"
+      ],
+      "flag":"usa"
+   }
+]

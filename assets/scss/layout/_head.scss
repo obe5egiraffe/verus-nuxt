@@ -1,0 +1,99 @@
+header{
+	background:$secondColor;
+	width:100%;
+	position:fixed;
+	z-index:500;
+	@include breakpoint(tablet){
+		padding:1em;
+	}
+	.menu-btn{
+		background:$mainColor;
+		width:4.5em;
+		padding:1em;
+		display:inline-block;
+		vertical-align: middle;
+		height:3.5em;
+		transition:0.25s;
+		@include breakpoint(tablet){
+			position:absolute;
+		}
+		&:hover{
+			background:darken($mainColor, 10);
+			transition:0.25s;
+			cursor:pointer;
+			.menu-icon{
+				
+			}
+		}
+		.menu-icon{
+			height:2px;
+			background:#fff;
+			width:100%;
+			position:relative;
+			transition:0.25s;
+			&:before, &:after{
+				content:'';	
+				position:absolute;
+				height:2px;
+				background:#fff;
+				width:100%;
+			}
+			&:before{
+				top:0.75em;
+			}
+			&:after{
+				top:1.5em;
+			}
+
+		}
+	}
+	.logo{
+		width:100%;
+		max-width:14em;
+		display:inline-block;
+		vertical-align: middle;
+		padding:1em;
+		@include breakpoint(tablet){
+			margin:0 auto;
+			display:block;
+			max-width:17em;
+		}
+
+	}
+	nav{
+		position:absolute;
+		z-index:500;
+		background:$mainColor;
+		width:100%;
+		top:0;
+		left:0;
+		padding:1em;
+		@include breakpoint(tablet){
+			padding:1em 2em;
+		}
+		a{
+			font:2em $sansSerif;
+			font-weight:bold;
+			color:#fff;
+			text-decoration: none;
+			display:block;
+			padding:0.1em 0;
+			text-transform: capitalize;
+			@include breakpoint(tablet){
+				font-size:2.5em;
+			}
+			&:hover{
+				color:$secondColor;
+				cursor:pointer;
+			}
+			&.close{
+				position:static;
+				padding:0 0 0.5em 0;
+				font-size:2.5em;
+				&:hover{
+					background:none;
+				}
+			}
+		}
+	}
+}

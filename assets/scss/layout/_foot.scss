@@ -1,0 +1,27 @@
+footer{
+  background:$mainColor;
+  color:#fff;
+  margin:0 auto;
+  width:100%;
+  padding:1em;
+  text-align:center;
+  @include breakpoint(tablet){
+    padding:2em;
+    text-align:right;
+  }
+  .logo{
+    width:11em;
+    margin-bottom:1em;
+  }
+  a{
+    color:#fff;
+    //text-decoration: none;
+    //text-transform: uppercase;
+    &:hover{
+      text-decoration: none;
+    }
+  }
+  address{
+    font-style: normal;
+  }
+}

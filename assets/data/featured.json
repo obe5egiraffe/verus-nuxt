@@ -1,0 +1,57 @@
+[
+   {
+      "id":"1",
+      "title":"We sweat the details",
+      "content":"<p>Developing a corporate headquarters for a storied brand – one that was started in 1866 – is a major endeavor. Matching their commitment and dedication to repeatedly innovating and leading their industry is an even greater challenge. </p> <p> In March 2017, Verus Partners completed this 162,400 SF, four-story Class “A” office facility in Lexington, Kentucky for Ashland, Inc. The project serves as the new corporate headquarters for Valvoline and features an architectural precast/glass exterior in a splayed layout. A dramatic entry welcomes employees and visitors and includes a contemporary designed reception and curated displays of Valvoline’s vintage automobile collection.</p><p>The suburban office was constructed to the latest energy code standards; architecture and space planning amplify the benefits of daylight exposure for all employees. Amenities include a large employee servery/cafeteria and an expansive fitness center with access to an outdoor terrace overlooking a preserved, tree-lined landscape.</p>",
+      "images":[
+         "mercy-health.jpg",
+         "projects/mercy/verus-mercy-health-aerial-01.jpg",
+         "projects/mercy/verus_mercy-health01.jpg",
+         "projects/mercy/verus_mercy-health02.jpg"
+      ]
+   },
+   {
+      "id":"2",
+      "title":"Airport Commerce Centre Two Complete. 100% leased to Arvato Digital Services and sold to Clarion Partners.",
+      "content":"<p>Airport Commerce Center II is a 645,840 SF bulk distribution building that is located adjacent to the new $300M UPS Centennial Hub expansion in Louisville, Kentucky. 100% leased to Arvato Digital Services and owned by Clarion Partners, this cross-dock bulk building offers convenient access to Louisville’s key transportation infrastructure including I-65, I-265, Louisville International Airport and UPS Worldport. Incorporating the most advanced design specifications, this Class “A” building consists of architectural precast concrete construction, 36’ minimum clear span height, cross-dock configuration with 140’-195’ truck courts and a multi-tenant design with two office storefronts used for sales and customer service for clients.</p><p><a href=\"www.airportcommercecenter.net\">www.airportcommercecenter.net</a></p>",
+      "images":[
+         "aircommerce.jpg",
+         "projects/aircommerce/air-commerce-aerial-01.jpg",
+         "projects/aircommerce/air-commerce-exterior-01.jpg",
+         "projects/aircommerce/air-commerce-exterior-02.jpg"
+      ]
+   },
+   {
+      "id":"3",
+      "title":"GreenParke",
+      "content":"Verus Partners and USAA constructed GreenParke Building One on a speculative basis beginning in 2012. The Class A modern bulk building was completed in October 2013, and features cross dock shipping design, 36' clear height, insulated precast concrete exterior walls, ESFR fire protection, EPDM roof, 7\" concrete floor slab, T5 lighting fixtures, 80 truck level docks equipped with 35,000lb 6' x 8' mechanical docks and dedicated parking for 96 trailers (expandable). The building was sold in shell condition in October 2013.",
+      "images":[
+         "greenparke.jpg",
+         "projects/greenparke/verus_greenparke-interior.jpg",
+         "projects/greenparke/verus_greenparke01.jpg",
+         "projects/greenparke/verus_greenparke03.jpg"
+      ]
+   },
+   {
+      "id":"4",
+      "title":"Verus Partners and Valvoline Oil",
+      "content":"<p>Developing a corporate headquarters for a storied brand – one that was started in 1866 – is a major endeavor. Matching their commitment and dedication to repeatedly innovating and leading their industry is an even greater challenge. </p> <p> In March 2017, Verus Partners completed this 162,400 SF, four-story Class “A” office facility in Lexington, Kentucky for Ashland, Inc. The project serves as the new corporate headquarters for Valvoline and features an architectural precast/glass exterior in a splayed layout. A dramatic entry welcomes employees and visitors and includes a contemporary designed reception and curated displays of Valvoline’s vintage automobile collection.</p><p>The suburban office was constructed to the latest energy code standards; architecture and space planning amplify the benefits of daylight exposure for all employees. Amenities include a large employee servery/cafeteria and an expansive fitness center with access to an outdoor terrace overlooking a preserved, tree-lined landscape.</p>",
+      "images":[
+         "valvoline.jpg",
+         "projects/valvoline/valvoline-05.jpg",
+         "projects/valvoline/valvoline-07.jpg",
+         "projects/valvoline/valvoline-03.jpg"
+      ]
+   },
+   {
+      "id":"5",
+      "title":"Verus and Edev Realty Advisors retained as development manager for new Magellan Aerospace facility",
+      "content":"<p>Alberta Investment Management Company (AIMCo) and Crestpoint Real Estate Investments Ltd entered into a joint venture to acquire and develop a land parcel totaling approximately 45 acres located at 3160 Derry Road, Mississauga, Ontario. The initial phase of the project is a build to suit facility for Magellan Aerospace Corporation including a 220,000 SF office, manufacturing, testing and warehouse facility. Verus Partners Canada Ltd and Edev Realty Advisors have been retained as the development manager. The current site is a 750,000 SF office and manufacturing plant facility that no longer meets the needs of Magellan. A portion of the existing plant will be demolished to make way for the new facility. Once the new facility is complete Magellan will move its aerospace testing and manufacturing operations from the existing facility, which will be demolished and redeveloped as a master planned office, commercial and industrial campus. The “infill” site is located less than one kilometer from the Toronto Pearson International Airport. The Malton GO Train and Bus Station is located adjacent to the site.</p>",
+      "images":[
+         "magellan.jpg",
+         "projects/magellan/verus_magellan04.jpg",
+         "projects/magellan/verus_magellan06.jpg",
+         "projects/magellan/verus_magellan03.jpg"
+      ]
+   }
+]

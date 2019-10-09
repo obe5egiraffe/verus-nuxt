@@ -1,0 +1,46 @@
+#top{
+	background:url('../images/hero.jpg') no-repeat center center;
+	background-size:cover;
+	background-attachment:fixed;
+	padding-top:3em;
+	@include breakpoint(tablet){
+		padding-top:5em;
+	}
+	ul{
+		list-style-type:none;
+		font-size:2em;
+		li{
+			padding-left:15px; 
+			position:relative;
+			margin:0.25em 0;
+			font-weight:bold;
+			&:before{
+				content:'❖';
+				position:relative;
+				left:-10px;
+
+			}
+		}
+	}
+	h2{
+		@include breakpoint(tablet){
+			margin-top:2em;
+		}
+	}
+	p{
+		font-size:2em;
+		font-weight:bold;
+	}
+}
+
+.logo-container{
+	display:flex;
+	align-items:center;
+	justify-content: space-between;
+	flex-wrap:wrap;
+	img{
+		padding:1em;
+		flex-basis:230px;
+		flex-shrink:1;
+	}
+}
